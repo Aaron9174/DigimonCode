@@ -1,8 +1,6 @@
 # #!/usr/bin/env python
 # func sample, coast creation
-# see http://thegenuisishere.multiply.com/journal/item/48
 # seems to work only with very small ratio values, around 1.001 - 1.010
-# reddit was here
  
 import math
 from random import random as rnd
